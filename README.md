@@ -8,7 +8,7 @@ The dataset contains details about each pitch thrown by Verlander, including the
 
 This software aims to answer key questions regarding Verlander’s pitching tendencies and how certain combinations of pitch types and counts are more or less frequent than expected under the assumption of independence. By writing this software, I further develop my statistical analysis and Python programming skills.
 
-[Software Demo Video](http://youtube.link.goes.here)
+Software Demo Video: https://youtu.be/86IpgjDhF84
 
 ## Data Analysis Results
 
